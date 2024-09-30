@@ -302,6 +302,8 @@ strong {
 
 .navbar-brand span {
   font-family: var(--title-font-family);
+  color: rgb(255 204 70);
+
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
