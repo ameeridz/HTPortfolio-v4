@@ -24,7 +24,7 @@ https://templatemo.com/tm-590-topic-listing
   --body-font-family:             'Open Sans', sans-serif;
   --title-font-family:            'Montserrat', sans-serif;
 
-  --h1-font-size:                 58px;
+  --h1-font-size:                 70px;
   --h2-font-size:                 46px;
   --h3-font-size:                 32px;
   --h4-font-size:                 28px;
@@ -42,7 +42,7 @@ https://templatemo.com/tm-590-topic-listing
   --font-weight-normal:           400;
   --font-weight-medium:           500;
   --font-weight-semibold:         600;
-  --font-weight-bold:             700;
+  --font-weight-bold:             900;
 }
 
 body {
@@ -488,7 +488,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: linear-gradient(15deg, #3743a1 0%, #8f80d0 100%);
+  background-image: linear-gradient(15deg, #3743a1 0%, #9a3168e0 100%);
   position: relative;
   overflow: hidden;
   padding-top: 150px;
