@@ -147,7 +147,7 @@ strong {
 }
 
 .section-overlay {
-  background-image: linear-gradient(15deg, #29346F 0%, #A83882 100%);
+  background-image: linear-gradient(15deg, #29346F 0%, #a83883a4 100%);
   position: absolute;
   top: 0;
   left: 0;
