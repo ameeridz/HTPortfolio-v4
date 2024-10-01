@@ -147,7 +147,7 @@ strong {
 }
 
 .section-overlay {
-  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  background-image: linear-gradient(15deg, #13547a 0%, #8f265fb9 100%);
   position: absolute;
   top: 0;
   left: 0;
@@ -248,7 +248,7 @@ strong {
   SITE HEADER              
 -----------------------------------------*/
 .site-header {
-  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  background-image: linear-gradient(15deg, #13547a   0%, #9a3168e0  100%);
   padding-top: 150px;
   padding-bottom: 80px;
 }
@@ -728,7 +728,7 @@ blockquote {
   TIMELINE              
 -----------------------------------------*/
 .timeline-section {
-  background-image: url('../images/colleagues-working-cozy-office-medium-shot.jpg');
+  background-image: url('../images/heitech-building.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
