@@ -14,8 +14,8 @@ https://templatemo.com/tm-590-topic-listing
   --primary-color:                #ffb53e;
   --secondary-color:              #29346F;
   --section-bg-color:             #29346F;
-  --custom-btn-bg-color:          #d99b60;
-  --custom-btn-bg-hover-color:    #29346F;
+  --custom-btn-bg-color:          #fda00b;
+  --custom-btn-bg-hover-color:    #A83882;
   --dark-color:                   #000000;
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
@@ -634,7 +634,7 @@ strong {
 }
 
 .bg-finance {
-  background-color: #536DFE;
+  background-color: #ffffff;
 }
 
 .bg-music {
