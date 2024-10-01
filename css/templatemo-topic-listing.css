@@ -488,7 +488,12 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: linear-gradient(315deg, #29346F 20%, #A83882 100%);
+  background-image: url(../images/digitalwave\ bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+
   position: relative;
   overflow: hidden;
   padding-top: 150px;
@@ -526,8 +531,7 @@ strong {
   TOPICS              
 -----------------------------------------*/
 .featured-section {
-  background-image: url(../images/digitalwave\ bg.png);
-  background-repeat: no-repeat;
+  background-image: linear-gradient(315deg, #29346F 20%, #A83882 100%);  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   position: relative;
@@ -572,14 +576,14 @@ strong {
   display: flex;
   justify-content: center;
   text-align: center;
-  width: 130px;
+  width: 80px;
   height: 30px;
   line-height: 20px;
 }
 
 .custom-block-overlay {
   height: 100%;
-  min-height: 350px;
+  min-height: 150px;
   padding: 0;
 }
 
@@ -630,7 +634,7 @@ strong {
 }
 
 .bg-advertising {
-  background-color: #F50057;
+  background-color: #d9bdff;
 }
 
 .bg-finance {
@@ -638,7 +642,7 @@ strong {
 }
 
 .bg-music {
-  background-color: #F9A826;
+  background-color: #26acf956;
 }
 
 .bg-education {
