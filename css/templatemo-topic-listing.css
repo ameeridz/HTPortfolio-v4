@@ -21,8 +21,8 @@ https://templatemo.com/tm-590-topic-listing
   --border-color:                 #7fffd4;
   --link-hover-color:             #29346F;
 
-  --body-font-family:             'montserrat', sans-serif;
-  --title-font-family:            'montserrat', sans-serif;
+  --body-font-family:             'inter', sans-serif;
+  --title-font-family:            'inter', sans-serif;
 
   --h1-font-size:                 6em;
   --h2-font-size:                 46px;
@@ -497,7 +497,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: url(../images/digitalwave\ bg.png);
+  background-image: url(../images/ezgif-1-03a972978f.gif);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
