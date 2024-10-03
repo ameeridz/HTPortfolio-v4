@@ -497,7 +497,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: url(../images/ezgif-1-03a972978f.gif);
+  background-image: url(../images/BG\ Heidi.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -505,7 +505,7 @@ strong {
   position: relative;
   overflow: hidden;
   padding-top: 150px;
-  padding-bottom: 150px;
+  padding-bottom: 499px;
 }
 
 .hero-section .input-group {
@@ -539,7 +539,7 @@ strong {
   TOPICS              
 -----------------------------------------*/
 .featured-section {
-  background-image: linear-gradient(315deg, #29346F 20%, #A83882 100%);  background-repeat: no-repeat;
+  background-image: url(../images/BG\ Heidi.png);
   background-position: center;
   background-size: cover;
   position: relative;
