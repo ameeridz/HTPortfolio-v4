@@ -46,8 +46,10 @@ https://templatemo.com/tm-590-topic-listing
 }
 
 body {
-  background-color: var(--white-color);
+  background-color: #ffffff;
+  
   font-family: var(--body-font-family); 
+
 }
 
 
